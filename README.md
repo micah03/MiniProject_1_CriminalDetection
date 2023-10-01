@@ -3,7 +3,7 @@ Mini Project done in Sem-3 Criminal Detection using Face Recognition in Python
 
 This Python program is designed to perform criminal detection in a video clip using face recognition. It takes an image file containing the face of the criminal to be detected and a video clip in which the detection will be performed.
 
-# Instructions
+# Usage
 1. Click on "Choose the Image file" to select the image file containing the face of the criminal you want to detect.
 2. Click on "Choose the Video file" to select the video clip in which you want to perform the detection.
 3. Click "Click to continue" to start the detection process.
