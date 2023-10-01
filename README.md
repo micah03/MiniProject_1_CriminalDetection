@@ -15,6 +15,7 @@ For each frame in the video, the following information is collected:
 
 * Frame number
 * Percentage match with the known face
+  
 The results are stored in a CSV file named "framedata.csv," which contains the frame number and the percentage match.
 
 # Output Options
